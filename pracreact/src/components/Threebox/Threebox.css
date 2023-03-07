@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width:1900px;
+}
+
+.box1{
+   width: 20%;
+   height: 100%;
+    background-color: rgb(255, 0, 234);
+}
+.box2{
+    width: 20%;
+    height: 100%;
+    background-color: blue;
+}
+.box3{
+    width: 60%;
+    height: 100%;
+    background-color: black;
+}
